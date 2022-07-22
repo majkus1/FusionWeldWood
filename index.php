@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
-        content="Interesują cię meble w stylu loft albo nawet cały salon w stylu loft? W fusion weld wood realizujemy zamówienia indywidualne. Sprawdź naszą stronę.">
+        content="Meble w stylu loftowym i industrialnym. Ogrodzenia, bramy, schody i balustrady w nowoczesnym stylu. Realizujemy zamówienia indywidualne oraz usługi spawalnicze na terenie Śląska i Małopolski.">
     <title>Fusion Weld Wood | Meble w stylu loft i nie tylko</title>
     <link rel="icon" type="image/x-icon" href="/img/favicons.ico">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -127,7 +127,7 @@
         <h2>Oferta</h2>
         <div class="underline"></div>
         <div data-aos="fade-up" data-aos-duration="3000">
-            <h1>Fusion WELD & WOOD to produkty, których potrzebujesz</h1>
+            <h1 style="color: orange;">Meble w stylu loftowym i industrialnym...</h1>
         </div>
         <div data-aos="fade-up" data-aos-duration="3000">
             <p>Fusion WELD & WOOD to miejsce wyjątkowe, jak Ty. Dostarczamy
@@ -137,17 +137,19 @@
                 aktualne trendy.</p>
         </div>
         <div data-aos="fade-up" data-aos-duration="3000">
+        <h1 style="color: orange; margin-top: 0;">Bramy, ogrodzenia, schody oraz balustrady w nowoczesnym stylu</h1>
             <p>Oferujemy również metalowe elementy architektoniczne, w tym
                 balustrady,
                 ogrodzenia i bramy w nowoczesnym stylu. Oferta produktowa obejmuje również wyróżniające się
                 designem i estetyką schody drewniane na konstrukcji stalowej.</p>
         </div>
         <div data-aos="fade-up" data-aos-duration="3000">
+        <h1 style="color: orange; margin-top: 0;">Zamówienia indywidualne, ogólne usługi spawalnicze</h1>
             <p>Wychodząc naprzeciw
                 oczekiwaniom Klientów, świadczymy ogólne usługi spawalnicze. Wiemy, że są wśród naszych
                 klientów osoby, które mają pomysł i koncepcję, a szukają firmy, która je zrealizuje. Dlatego
-                realizujemy zamówienia indywidualne. Nie boimy się nowych wyzwań. Dołącz do grona naszych
-                zadowolonych Klientów.</p>
+                realizujemy zamówienia indywidualne. Nie boimy się nowych wyzwań.<strong> Dołącz do grona naszych
+                zadowolonych Klientów. </strong></p>
         </div>
     </section>
 
@@ -157,47 +159,58 @@
             <div class="underline"></div>
             <div class="wrappers">
                 <div class="gallery">
-                    <div class="image"><span><img src="img/1.jpg" alt="zdjęcie realizacji zamówienia hokerów"></span>
+                    <div class="image" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/1.jpg" alt="zdjęcie realizacji zamówienia hokerów"></span>
                     </div>
-                    <div class="image"><span><img src="img/11.jpg" alt="zdjęcie realizacji zamówienia stolika"></span>
+                    <div class="image" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/11.jpg" alt="zdjęcie realizacji zamówienia stolika"></span>
                     </div>
-                    <div class="image"><span><img src="img/8.jpg"
+                    <div class="image" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/24.jpg"
+                                alt="zdjęcie realizacji"></span></div>
+                    <div class="image" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/7.jpg"
+                                alt="zdjęcie realizacji zamontowanych drewnianych schodów na konstrukcji stalowej"></span></div>
+                    <div class="image" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/8.jpg"
                                 alt="zdjęcie realizacji zamontowanych barierek schodowych"></span></div>
-                    <div class="image"><span><img src="img/12.jpg"
-                                alt="zdjęcie realizacji zamontowanych przeuswnych drzwi drewnianych"></span></div>
-                    <div class="image"><span><img src="img/14.jpg"
-                                alt="zdjęcie realizacji zamontowanych balustrad schodowych"></span></div>
-                    <div class="image"><span><img src="img/6.jpg"
-                                alt="zdjęcie realizacji zamontowanych barierek na tarasie"></span></div>
-                    <div class="image"><span><img src="img/7.jpg"
-                                alt="zdjęcie realizacji zamontowanych drewnianych schodów na konstrukcji stalowej"></span>
-                    </div>
-                    <div class="image"><span><img src="img/4.jpg"
+                    <div class="image" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/4.jpg"
                                 alt="zdjęcie realizacji zamonotwanych barierek schodowych"></span></div>
-                    <div class="image"><span><img src="img/9.jpg"
+                    <div class="image" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/14.jpg"
+                                alt="zdjęcie realizacji zamontowanych balustrad schodowych"></span></div>
+                    <div class="image" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/6.jpg"
+                                alt="zdjęcie realizacji zamontowanych barierek na tarasie"></span></div>
+                    <div class="image" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/12.jpg"
+                                alt="zdjęcie realizacji zamontowanych przeuswnych drzwi drewnianych"></span></div>
+                    <div class="image" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/9.jpg"
                                 alt="zdjęcie realizacji narożnika stalowego do ogródka"></span></div>
-                    <div class="image onlymobile"><span><img src="img/10.jpg"
+                    <div class="image onlymobile" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/10.jpg"
                                 alt="zdjęcie realizacji barierek schodowych"></span></div>
-                    <div class="image"><span><img src="img/2.jpg"
-                                alt="zdjęcie realizacji narożnika stalowego do ogródka"></span></div>
-                    <div class="image"><span><img src="img/3.jpg"
-                                alt="zdjęcie realizacji narożnika stalowego do ogródka"></span></div>
-                    <div class="image"><span><img src="img/13.jpg"
-                                alt="zdjęcie realizacji narożnika stalowego do ogródka"></span></div>
-                    <div class="image"><span><img src="img/5.jpg"
-                                alt="zdjęcie realizacji narożnika stalowego do ogródka"></span></div>
-                    <div class="image"><span><img src="img/15.jpg"
-                                alt="zdjęcie realizacji narożnika stalowego do ogródka"></span></div>
-                    <div class="image"><span><img src="img/16.jpg"
-                                alt="zdjęcie realizacji narożnika stalowego do ogródka"></span></div>
-                    <div class="image"><span><img src="img/17.jpg"
-                                alt="zdjęcie realizacji narożnika stalowego do ogródka"></span></div>
-                    <div class="image"><span><img src="img/18.jpg"
-                                alt="zdjęcie realizacji narożnika stalowego do ogródka"></span></div>
-                    <div class="image"><span><img src="img/19.jpg"
-                                alt="zdjęcie realizacji narożnika stalowego do ogródka"></span></div>
-                    <div class="image onlymobile"><span><img src="img/20.jpg"
-                                alt="zdjęcie realizacji barierek schodowych"></span></div>
+                    <div class="image" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/2.jpg"
+                                alt="zdjęcie realizacji"></span></div>
+                    <div class="image" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/3.jpg"
+                                alt="zdjęcie realizacji"></span></div>
+                    <div class="image" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/13.jpg"
+                                alt="zdjęcie realizacji"></span></div>
+                    <div class="image" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/5.jpg"
+                                alt="zdjęcie realizacji"></span></div>
+                    <div class="image" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/15.jpg"
+                                alt="zdjęcie realizacji"></span></div>
+                    <div class="image" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/16.jpg"
+                                alt="zdjęcie realizacji"></span></div>
+                    <div class="image" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/17.jpg"
+                                alt="zdjęcie realizacji"></span></div>
+                    <div class="image" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/18.jpg"
+                                alt="zdjęcie realizacji"></span></div>
+                    <div class="image" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/19.jpg"
+                                alt="zdjęcie realizacji"></span></div>
+                    <div class="image onlymobile" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/20.jpg"
+                                alt="zdjęcie realizacji"></span></div>
+                    <div class="image" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/21.jpg"
+                                alt="zdjęcie realizacji"></span></div>
+                    <div class="image" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/22.jpg"
+                                alt="zdjęcie realizacji"></span></div>
+                    <div class="image" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/23.jpg"
+                                alt="zdjęcie realizacji"></span></div>
+                    <div class="image" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/25.jpg"
+                                alt="zdjęcie realizacji"></span></div>
+                    <div class="image" data-aos="zoom-in" data-aos-duration="3000"><span><img src="img/26.jpg"
+                                alt="zdjęcie realizacji"></span></div>
                 </div>
             </div>
             <div class="preview-box">
@@ -281,6 +294,18 @@
                             <strong>Dagmara</strong>
                         </div>
                     </div>
+
+                    <div class="reviews__box">
+                        <div class="reviews__box-img">
+                            <img src="img/dominika.jpg" alt="twarz dominiki która napisała opinie">
+                        </div>
+                        <div class="reviews__box-info">
+                            <div class="reviews__box-quote"> <i class="fas fa-quote-right"></i> </div>
+                            <p class="reviews__box-text">Profesjonalizm, stały kontakt z klientem, barierki super zrobione i szybko zamontowane, bardzo polecam 🙂</p>
+                            <strong>Dominika</strong>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
